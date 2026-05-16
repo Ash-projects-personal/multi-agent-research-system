@@ -1,0 +1,4 @@
+# Optional runtime — the demo in orchestrator.py works without any of these,
+# but you'll need them to swap in a real LLM client per the README.
+openai>=1.30,<2
+python-dotenv>=1.0,<2
